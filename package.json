@@ -1,0 +1,22 @@
+{
+  "name": "fireworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdragon0610/fireworks_with_JS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigdragon0610/fireworks_with_JS/issues"
+  },
+  "homepage": "https://github.com/bigdragon0610/fireworks_with_JS#readme",
+  "devDependencies": {
+    "electron": "^20.0.2"
+  }
+}
